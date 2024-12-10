@@ -126,6 +126,15 @@ O objetivo desta atividade é construir um **portfólio pessoal** interativo e f
 
    - Após concluir o projeto, submeta-o em um repositório no GitHub. O repositório deve estar bem organizado e conter um arquivo `README.md` com uma descrição do projeto e instruções básicas de como visualizar o portfólio.
    - O link para o seu repositório GitHub deve ser compartilhado com o professor para avaliação.
+     
+>[!NOTE]
+><h3><strong>🔗 Como compartilhar</strong></h3>
+>
+><p>Compartilhar o link do repositório ou link da page publicada, com o professor, via e-mail.</p>
+>
+>Eviar e-mail para <a href="malito:dhs.danielsouza@gmail.com">dhs.danielsouza@gmail.com</a>
+>
+><strong>Colocar no assunto: <em>Trabalho final - "nome completo"</em></strong>
 
 ## **Critérios de Avaliação** 📊:
 
